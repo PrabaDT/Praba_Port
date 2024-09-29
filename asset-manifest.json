@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Praba_Port/static/css/main.0da08ce8.css",
+    "main.js": "/Praba_Port/static/js/main.c33f7246.js",
+    "static/media/myport.png": "/Praba_Port/static/media/myport.30b275944ca5ed2b61d7.png",
+    "static/media/bannerImg.png": "/Praba_Port/static/media/bannerImg.a25f6313c9c094b9307b.png",
+    "static/media/recannie.png": "/Praba_Port/static/media/recannie.fa056a27efa2c72ae08c.png",
+    "static/media/cannie.png": "/Praba_Port/static/media/cannie.bb0042fa07ceae9a9afe.png",
+    "index.html": "/Praba_Port/index.html",
+    "main.0da08ce8.css.map": "/Praba_Port/static/css/main.0da08ce8.css.map",
+    "main.c33f7246.js.map": "/Praba_Port/static/js/main.c33f7246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da08ce8.css",
+    "static/js/main.c33f7246.js"
+  ]
+}
